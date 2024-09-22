@@ -7,4 +7,4 @@ Renegade Lynx,
 Wenegade Waidar,
 Glevin,
 Kevin,
-Rick Grimes <-- LATEST
+Rick Grimes, drico <-- LATEST
