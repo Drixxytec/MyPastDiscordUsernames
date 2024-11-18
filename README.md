@@ -1,10 +1,1 @@
-# MyPastDiscordUsernames
-( there's more ill add the rest later )
-drico,
-dricotec,
-drico79,
-Renegade Lynx,
-Wenegade Waidar,
-Glevin,
-Kevin,
-Rick Grimes, drico <-- LATEST
+<img width="400" src="https://dsc-readme.tsuni.dev/api/user/421115400445493248"></img>
